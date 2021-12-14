@@ -1,0 +1,8 @@
+[submodule "yellowblog/dwiikhsandi.github.io"]
+	path = yellowblog/dwiikhsandi.github.io
+	url = https://github.com/dwiikhsandi/dwiikhsandi.github.io.git
+	branch = main
+[submodule "yellowblog/public"]
+	path = yellowblog/public
+	url = https://github.com/dwiikhsandi/dwiikhsandi.github.io.git
+	branch = main
